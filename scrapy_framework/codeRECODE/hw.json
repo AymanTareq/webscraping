@@ -1,0 +1,86 @@
+[
+    {
+        "Article Heading": "IMPORTANT!",
+        "First Para": "This blog is only for practicing learning. The contents may change but ",
+        "Author": "Upendra",
+        "Date": "November 28, 2019",
+        "Category tag": [
+            "Python",
+            "Web Scraping"
+        ]
+    },
+    {
+        "Article Heading": "Part 2 of BS4 Selenium,\u00a0Scrapy",
+        "First Para": "This is part 2 of the dummy post. This post is just a copy of ",
+        "Author": "Upendra",
+        "Date": "December 17, 2019",
+        "Category tag": [
+            "Web Scraping"
+        ]
+    },
+    {
+        "Article Heading": "Introduce Yourself",
+        "First Para": "This ",
+        "Author": "Upendra",
+        "Date": "December 17, 2019",
+        "Category tag": [
+            "Uncategorized"
+        ]
+    },
+    {
+        "Article Heading": "Part 3 of Scrapy and\u00a0JSON",
+        "First Para": "This blog is nothing but a copy of ",
+        "Author": "Upendra",
+        "Date": "December 17, 2019",
+        "Category tag": [
+            "Python"
+        ]
+    },
+    {
+        "Article Heading": "Part 1 of Scrapy and\u00a0JSON",
+        "First Para": "How easy is it to get JSON data with Scrapy? This is one more dummy post for practice.",
+        "Author": "Upendra",
+        "Date": "December 14, 2019",
+        "Category tag": [
+            "Python"
+        ]
+    },
+    {
+        "Article Heading": "Send Mail using\u00a0Python",
+        "First Para": "Securely send mail from code: Sending mail with Python is very easy. just a few lines of code. But what that password that you are writing in your source code?",
+        "Author": "Upendra",
+        "Date": "December 14, 2019",
+        "Category tag": [
+            "Python",
+            "Web Scraping"
+        ]
+    },
+    {
+        "Article Heading": "Running BS4, Selenium,\u00a0Scrapy",
+        "First Para": "Selenium was created as a UI Testing Tool. This still used by Testers in software companies. Let\u2019s see a typical scenario.",
+        "Author": "Upendra",
+        "Date": "December 14, 2019",
+        "Category tag": [
+            "Web Scraping"
+        ]
+    },
+    {
+        "Article Heading": "IMPORTANT!",
+        "First Para": "This blog is only for practicing learning. The contents may change but ",
+        "Author": "Upendra",
+        "Date": "November 28, 2019",
+        "Category tag": [
+            "Python",
+            "Web Scraping"
+        ]
+    },
+    {
+        "Article Heading": "Welcome to the Scraping\u00a0Blog",
+        "First Para": "THIS IS A DUMMY POST. ",
+        "Author": "Upendra",
+        "Date": "November 28, 2019",
+        "Category tag": [
+            "Uncategorized"
+        ]
+    }
+]
